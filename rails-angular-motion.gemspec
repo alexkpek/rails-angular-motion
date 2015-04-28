@@ -14,5 +14,5 @@ Gem::Specification.new do |s|
   s.homepage  = "https://github.com/alexkpek/rails-angular-motion"
   s.license   = "MIT"
 
-  s.add_dependency "rails-angularjs", ">= 1.3"
+  s.add_runtime_dependency "rails-angularjs", ">= 1.3"
 end
