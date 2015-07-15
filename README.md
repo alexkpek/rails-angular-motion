@@ -18,4 +18,4 @@ If you desire to require minified version, add the following:
 
 ## Versioning
 
-Current version of Angular Motion - 0.3.4
+Current version of Angular Motion - 0.4.2
